@@ -42,8 +42,8 @@
     }
 
     .conteudo .logo {
-        width: 170px;
-        height: 75px;
+        width: 185px;
+        height: 90px;
     }
 
     .conteudo {
@@ -60,6 +60,6 @@
     }
 
     .botoes .botao img {
-        max-width: 50px;
+        max-width: 55px;
     }
 }
